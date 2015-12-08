@@ -1,5 +1,5 @@
 # scboook
-Containts the codes of the website I am creating as a part of my course program in the university non Nantes.
+Containts the codes of the website I am creating as a part of my course program in the university of Nantes.
 
 The website is being created as a project in course program called Industrial Project.
 
